@@ -8,7 +8,7 @@ In this paper, we propose a novel image enhancement network via learning deforma
 local enhancement network, which has a U-Net architecture, to produce the spatially enhanced images. Extensive experimental results demonstrate that the proposed method achieves superior results to the state-of-the-art methods on public image enhancement datasets.
 
 # Framework
-
+<img src="https://raw.githubusercontent.com/jbnu-vilab/jbnu-vilab.github.io/master/images/seholee.png" width="130" >
 # Source Codes
 
 It will be available soon.
